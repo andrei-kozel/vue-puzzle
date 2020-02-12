@@ -1,7 +1,7 @@
 # vue-puzzle
 15 puzzle game
-<img src="https://github.com/andrei-kozel/vue-puzzle/raw/master/public/puzzle.PNG" height="100">
-![](https://github.com/andrei-kozel/vue-puzzle/raw/master/public/puzzle.PNG)
+
+<img src="https://github.com/andrei-kozel/vue-puzzle/raw/master/public/puzzle.PNG" height="400">
 
 [DEMO](https://vue-puzzle.netlify.com/)
 
