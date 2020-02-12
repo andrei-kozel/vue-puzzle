@@ -1,6 +1,10 @@
 # vue-puzzle
 15 puzzle game
 
+![](https://github.com/andrei-kozel/vue-puzzle/blob/master/public/puzzle.PNG | width=200)
+
+[DEMO](https://vue-puzzle.netlify.com/)
+
 ## Project setup
 ```
 yarn install
